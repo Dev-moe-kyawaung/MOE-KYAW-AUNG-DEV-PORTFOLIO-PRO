@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+Sitemap: https://Dev-moe-kyawaung.github.io/sitemap.xml
