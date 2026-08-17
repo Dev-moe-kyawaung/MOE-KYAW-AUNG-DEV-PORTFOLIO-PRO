@@ -1,0 +1,25 @@
+{
+  "short_name": "MK Portfolio",
+  "name": "Moe Kyaw Aung - Senior Android Developer",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778527878/IMG_20260430_053105_uef0yr.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/dye5qpwii/image/upload/v1778527878/IMG_20260430_053105_uef0yr.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0a0a0a",
+  "background_color": "#ffffff",
+  "description": "Professional portfolio for Moe Kyaw Aung - Senior Android Developer with 12+ years experience",
+  "orientation": "portrait-primary",
+  "categories": ["portfolio", "developer", "android"],
+  "lang": "en",
+  "dir": "ltr"
+}
