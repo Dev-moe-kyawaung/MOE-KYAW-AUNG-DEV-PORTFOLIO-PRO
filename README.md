@@ -132,3 +132,31 @@ const technologies = {
         'Ubuntu Mono'
     ]
 };
+```
+# Initialize repository
+git init
+
+# Add all files
+git add .
+
+# First commit
+git commit -m "🚀 Initial commit - Portfolio v1.3 PRO"
+
+# Create main branch
+git branch -M main
+
+# Add remote URL
+git remote add origin https://github.com/Dev-moe-kyawaung/portfolio.git
+
+# Push to GitHub
+git push -u origin main
+
+# Create version tag
+git tag -a v1.3.0 -m "Portfolio v1.3.0 PRO Release"
+git push origin --tags
+
+# Deploy to GitHub Pages
+npm run deploy
+
+# Set up GitHub Pages in repo settings
+echo "✅ Go to Settings → Pages → Branch: main → /root → Save"
